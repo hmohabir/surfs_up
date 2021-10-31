@@ -27,8 +27,13 @@ Surfing tempretures were still good, although, not a great as the month of June.
 ## Summary 
 
 It can se seen that Oahu is a prime surfing destination for a surf shop, nased on the tempreture taken in June and December. Ice cream can even be enjoyed in the month of December.
-Additionally, the precipitation is alsi in favor of surfing in these months:
+Additionally, the precipitation is also in favor of surfing and ice cream in these months:
 
-![June Precipitation](
+![June Precipitation](https://github.com/hmohabir/surfs_up/blob/main/June_Precipitation.PNG)
 
-![December Precipitation](
+![December Precipitation](https://github.com/hmohabir/surfs_up/blob/main/December_Precipitation.PNG)
+
+In June, the average precipitation was 0.14 inches and 0.22 for the month of December. For the months of June and December, the precipitations were 0.12 and 0.15 inches respectively. Hence, beach activities can be enjoyed for most of these months.
+
+Other analysis to be considered incluse wind speed, for bigger waves and percentage humidity, as no one likes high humidity.
+

@@ -23,3 +23,12 @@ For the month of December, the following was observed:
 ![December Tempretures](https://github.com/hmohabir/surfs_up/blob/main/December_temps.PNG)
 
 Surfing tempretures were still good, although, not a great as the month of June. The average tempreture was 71 degrees and it was at this temp or higher for 50% of the time during this month. 
+
+## Summary 
+
+It can se seen that Oahu is a prime surfing destination for a surf shop, nased on the tempreture taken in June and December. Ice cream can even be enjoyed in the month of December.
+Additionally, the precipitation is alsi in favor of surfing in these months:
+
+![June Precipitation](
+
+![December Precipitation](

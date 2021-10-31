@@ -6,8 +6,8 @@ This analysis was performed to gather intel on the conditions for a possible ope
 
 ## Resources
 
-hawaii.sqlile database.
-Jupyter Notebook.
+hawaii.sqlile database
+Jupyter Notebook
 
 ## Results
 
